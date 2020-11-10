@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyEighthApp</string>
+
+    <string name="welcome_message">Welcome to my app!</string>
+    <string name="app_explanation">Use this app to count how much money\nyou have (or will have) in your piggy bank!</string>
+    <string name="arrow" translatable="false">➤</string>
+    <string name="watermark" translatable="false">Bruno Koster</string>
+
+    <string name="total">Total Saved</string>
+    <string name="money" translatable="false">$0,00</string>
+    <string name="add_money">add money</string>
+    <string name="remove_money">remove money</string>
+
+    <string name="remove">remove</string>
+    <string name="title_removing">Removing Money</string>
+
+    <string name="add">add</string>
+    <string name="title_adding">Adding Money</string>
+
+    <string name="back">back</string>
+
+    <string-array name="money_spinner">
+        <item>Select the amount of money</item>
+        <item>0,5</item>
+        <item>0,10</item>
+        <item>0,25</item>
+        <item>0,50</item>
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>50</item>
+        <item>100</item>
+        <item>200</item>
+    </string-array>
+
+    <string name="select">Select a valid item</string>
+</resources>
