@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fleck Phrases 2</string>
+
+    <string name="textview_phrase1">Racism is wrong.</string>
+
+    <string name="textview_phrase2">Cigarette gives cancer.</string>
+
+    <string name="textview_phrase3">A man without horns is a undefended man.</string>
+
+    <string name="textview_phrase4">Falted, lost.</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fleck Фразы 2</string>
+
+    <string name="textview_phrase1">расизм - это неправильно, да.</string>
+
+    <string name="textview_phrase2">сигарета вызывает рак.</string>
+
+    <string name="textview_phrase3">Человек без рогов - беспомощный человек.</string>
+
+    <string name="textview_phrase4">Он заколебался, проиграл.</string>
+</resources>

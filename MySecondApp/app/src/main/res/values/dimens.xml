@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PHRASE SETTINGS (TextView) -->
+    <dimen name="phrase_textSize">20sp</dimen>
+    <dimen name="phrase_marginTop">15dp</dimen>
+
+    <!-- AUTHOR SETTINGS (TextView) -->
+    <dimen name="author_textSize">15sp</dimen>
+    <dimen name="author_marginTop">8dp</dimen>
+    <dimen name="author_marginBottom">20dp</dimen>
+
+    <!-- WATERMARK SETTINGS (TextView) -->
+    <dimen name="watermark_padding">10dp</dimen>
+    <dimen name="watermark_margin">10dp</dimen>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fleck Frases 2</string>
+    <string name="my_name" translatable="false">Bruno Koster</string>
+
+    <string name="textview_phrase1">Racismo é errado hein.</string>
+    <string name="textview_author1" translatable="false">Felipe Neto</string>
+
+    <string name="textview_phrase2">Singaro dá cãrse.</string>
+    <string name="textview_author2" translatable="false">Omi Ranha</string>
+
+    <string name="textview_phrase3">Um homem sem chifres é um homem indefeso.</string>
+    <string name="textview_author3" translatable="false">Leonardo</string>
+
+    <string name="textview_phrase4">Vacilou, perdeu.</string>
+    <string name="textview_author4" translatable="false">Camilly</string>
+
+    <string name="textview_phrase5" translatable="false">…</string>
+    <string name="textview_author5" translatable="false">Sona</string>
+</resources>

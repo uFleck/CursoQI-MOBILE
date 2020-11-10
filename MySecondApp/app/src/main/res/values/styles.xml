@@ -1,0 +1,34 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">@color/black</item>
+    </style>
+
+    <!-- PHRASE SETTINGS -->
+    <style name="TextView_PhraseStyle">
+        <item name="android:textSize">@dimen/phrase_textSize</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">@dimen/phrase_marginTop</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- AUTHOR SETTINGS -->
+    <style name="TextView_AuthorStyle">
+        <item name="android:textSize">@dimen/author_textSize</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:layout_marginTop">@dimen/author_marginTop</item>
+        <item name="android:layout_marginBottom">@dimen/author_marginBottom</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- WATERMARK SETTINGS -->
+    <style name="TextView_WatermarkStyle">
+        <item name="android:padding">@dimen/watermark_padding</item>
+        <item name="android:layout_margin">@dimen/watermark_margin</item>
+        <item name="android:background">@drawable/border_watermark</item>
+    </style>
+
+</resources>
