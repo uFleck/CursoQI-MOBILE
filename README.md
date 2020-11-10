@@ -1,3 +1,3 @@
 # CursoQI-MOBILE
 
- Exercícios voltados à web realizados por mim durante o curso na QI.
+ Exercícios voltados à mobile(Kotlin) realizados por mim durante o curso na QI.
