@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="orange">laranja</string>
+    <string name="yellow">amarelo</string>
+    <string name="green">verde</string>
+    <string name="blue">azul</string>
+    <string name="pink">rosa</string>
+    <string name="violet">violeta</string>
+    <string name="windows">Ativar Windows</string>
+    <string name="red">vermelho</string>
+    <string name="row_one">linha um</string>
+    <string name="row_two">linha dois</string>
+    <string name="row_three">linha três</string>
+    <string name="row_four">linha quatro</string>
+</resources>

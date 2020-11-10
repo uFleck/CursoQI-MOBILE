@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="WindowsFont">30sp</dimen>
+    <dimen name="RowFont">20sp</dimen>
+    <dimen name="LinearHeight">300dp</dimen>
+</resources>

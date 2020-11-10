@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <Button
+        android:id="@+id/red"
+        style="@style/TextView_BlockColors"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/red"
+        android:background="@color/red900" />
+
+    <Button
+        android:id="@+id/orange"
+        style="@style/TextView_BlockColors"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/orange900"
+        android:text="@string/orange"
+        android:layout_below="@id/red"
+        android:layout_toEndOf="@id/red"/>
+
+    <Button
+        android:id="@+id/yellow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/yellow500"
+        android:text="@string/yellow"
+        android:layout_below="@id/orange"
+        android:layout_toEndOf="@id/orange"/>
+
+    <Button
+        android:id="@+id/green"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/green600"
+        android:text="@string/green"
+        android:layout_below="@id/yellow"
+        android:layout_toRightOf="@id/yellow"/>
+
+    <Button
+        android:id="@+id/blue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/blue700"
+        android:text="@string/blue"
+        android:layout_below="@id/green"
+        android:layout_toLeftOf="@id/green"/>
+
+    <Button
+        android:id="@+id/indigo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/indigo400"
+        android:text="@string/indigo"
+        android:layout_below="@id/blue"
+        android:layout_toLeftOf="@+id/blue"/>
+
+    <Button
+        android:id="@+id/pink"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/pink400"
+        android:text="@string/pink"
+        android:layout_below="@id/indigo"/>
+
+    <TextView
+        android:id="@+id/windows"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/windows"
+        android:textColor="@color/white"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:textSize="@dimen/WindowsFont"/>
+
+</RelativeLayout>
