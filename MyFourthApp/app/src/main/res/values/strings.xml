@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Favourite Champions</string>
+    
+    <string name="fiora_name" translatable="false">Fiora</string>
+    <string name="fiora_bibliography">The most feared duelist of all Valoran, Fiora is renowned both for her abrupt manners and foresight and for the speed of her steel rapier. Born in the Laurent house in the kingdom of Demacia, Fiora took control of her father\'s family in the wake of a scandal that almost destroyed them. Laurent\'s reputation has been tarnished, but Fiora goes to great lengths to restore his family\'s honor and return them to their rightful place among the best of Demacia.</string>
+
+    <string name="missFortune_name" translatable="false">Miss Fortune</string>
+    <string name="missFortune_bibliography">A Bilgewater captain famous for her appearance and wickedness, Sarah Fortune draws attention among the hardened criminals in the port city. As a child, she saw the King of Thieves, Gangplank, murder her family, a crime for which she took violent revenge years later, blowing up her ship with him still on board. Those who underestimate it will face a seductive and unpredictable opponent … And possibly a bullet or two in the gut.</string>
+    
+    <string name="lillia_name" translatable="false">Lillia</string>
+    <string name="lillia_bibliography">Very shy, Lillia, the fairy faunesa, jumps through the forests of Ionia. Always hidden a short distance from humans - whose mysterious natures fascinate her and, at the same time, I am afraid - Lillia hopes to discover why their dreams no longer reach the Tree of Dreams. Now, she travels through Ionia with a magic stick in her hands in search of people\'s unfulfilled dreams. Only then will Lillia herself be able to flourish and help people misalign their fears and find their inner glow.</string>
+
+    <string name="poppy_name" translatable="false">Poppy</string>
+    <string name="poppy_bibliography">Runeterra is not in need of brave champions, but few are as tenacious as Poppy. Carrying Orlon\'s legendary hammer, a weapon that is twice its size, this determined yordle has spent many years secretly looking for the legendary "Hero of Demacia", the legitimate owner of the hammer. Until then, she does her duty by going into battle and forcing the enemies of the kingdom to retreat with each twist of her hammer.</string>
+
+    <string name="shaco_name" translatable="false">Shaco</string>
+    <string name="shaco_bibliography">Created years ago as a toy for a lonely prince, Shaco, the enchanted puppet, now delights in murders and disorder. Corrupted by the magic of darkness and the loss of its beloved owner, the doll who was once kind now finds pleasure only in the misery of the very souls he torments. He uses toys and simple tricks to achieve deadly effects, finding the results of his "games" bloody hilarious. And for those who hear a dark laugh in the dead of night, the Demonic Jester may have marked them as his next toy.</string>
+
+    <string name="vayne_name" translatable="false">Vayne</string>
+    <string name="vayne_bibliography">Shauna Vayne is a deadly and ruthless Demacian monster hunter who has dedicated her life to finding and destroying the monster that murdered her family. Armed with a crossbow on her wrist and a heart full of revenge, she is only really happy when she is killing practitioners or creations of the dark arts, attacking from the shadows with a whirl of silver darts.</string>
+    
+    <string name="talon_name" translatable="false">Talon</string>
+    <string name="talon_bibliography">Talon is the dagger in the dark, a ruthless assassin capable of attacking without warning and escaping before any alarm sounds. He built a dangerous reputation on the brutal streets of Noxus, where he was forced to fight, kill and steal to survive. Adopted by the notorious Du Couteau family, he now uses his mortal skills following the command of the empire, murdering enemy leaders, captains and heroes … in addition to any Noxian fool enough to win the contempt of his masters.</string>
+    
+    <string name="yone_name" translatable="false">Yone</string>
+    <string name="yone_bibliography">In life, he was Yone; Yasuo\'s stepbrother and a respected student at his village\'s swordsman school. But when he died at the hands of his brother, he found himself chased by an evil entity from the spiritual realm and was forced to exterminate it with his own sword. Now, condemned to wear a demonic mask with the entity\'s face, Yone tirelessly seeks out these creatures to try to understand what he himself has become.</string>
+</resources>
